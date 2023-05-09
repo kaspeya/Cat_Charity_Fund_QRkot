@@ -21,7 +21,7 @@ QRKot - приложение для Благотворительного фон�
 ```
  APP_TITLE=QRKot
  APP_DESCRIPTION=Приложение для Благотворительного фонда поддержки котиков QRKot.
- DATABASE_URL=sqlite+aiosqlite:///./fastapi.db
+ DATABASE_URL=sqlite+aiosqlite:///./cat_charity_fund.db
  SECRET=SECRET
  FIRST_SUPERUSER_EMAIL=admin@admin.com
  FIRST_SUPERUSER_PASSWORD=admin
